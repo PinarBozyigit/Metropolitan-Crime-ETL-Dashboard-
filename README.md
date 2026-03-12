@@ -41,4 +41,9 @@ The dashboard visualizes:
 - High‑risk areas
 
 📸 Screenshots
-(Add your dashboard and SQL screenshots here)
+
+## Dashboard Preview
+
+<a href="https://public.tableau.com/app/profile/pinar.bozyigit/viz/Nhs1/Dashboard1?publish=yes" target="_blank">
+  <img src="Dashboard/Metropolitnashboard1.png" alt="NHS Dashboard Preview">
+</a>
