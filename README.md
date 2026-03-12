@@ -29,6 +29,7 @@ Using CASE, WHEN, LEN(), and CAST(), I transformed all date values into a clean,
 Two main views were created:
 - vw_London_Crime
 - vw_Crime_Dashboard
+  
 These views prepare the dataset for analysis and visualization.
 
 📊 Interactive Dashboard
