@@ -27,12 +27,14 @@ Using CASE, WHEN, LEN(), and CAST(), I transformed all date values into a clean,
 
 🧱 SQL Views
 Two main views were created:
-- vw_London_Crime
-- vw_Crime_Dashboard
+- [vw_London_Crime.sql](SQL/vw_London_Crime.sql)
+- [vw_Crime_Dashboard.sql](SQL/vw_Crime_Dashboard.sql)
+
   
 These views prepare the dataset for analysis and visualization.
 
 📊 Interactive Dashboard
+
 🔗 Tableau Public:
 [https://your-tableau-link-here](https://public.tableau.com/app/profile/pinar.bozyigit/viz/Book1_17733259886090/Dashboard1?publish=yes)
 The dashboard visualizes:
