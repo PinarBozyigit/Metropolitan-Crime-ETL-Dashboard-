@@ -44,6 +44,6 @@ The dashboard visualizes:
 
 ## Dashboard Preview
 
-<a href="https://public.tableau.com/app/profile/pinar.bozyigit/viz/Nhs1/Dashboard1?publish=yes" target="_blank">
-  <img src="Dashboard/Metropolitnashboard1.png" alt="NHS Dashboard Preview">
+<a href="https://public.tableau.com/app/profile/pinar.bozyigit/viz/Book1_17733259886090/Dashboard1?publish=yes" target="_blank">
+  <img src="Dashboard/Metropolitan Dashboard.png" alt="Metropolitan Dashboard Preview">
 </a>
